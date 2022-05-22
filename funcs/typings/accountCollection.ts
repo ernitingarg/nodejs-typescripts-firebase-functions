@@ -1,0 +1,1 @@
+export type AccountCollectionName = 'btc_accounts' | 'eth_accounts';
